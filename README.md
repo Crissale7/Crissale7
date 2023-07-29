@@ -15,12 +15,13 @@
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+
 
 <br>
 
 - bachelor of systems
 - Playing hack'n slash games's at spare time
+- In my spare time I am a digital artist and 2D animator. [Twitch](https://www.twitch.tv/crisale7) | [ArtStation](https://www.deviantart.com/wayarts) | [DevianArt](https://www.deviantart.com/wayarts)
 - Currently studying cybersecurity specialty
 - Personal Drive to learn and practice with documentation, books, pdf etc ... [Google Drive](https://drive.google.com/drive/folders/1DVaZEDvKXDaqQdkDnfhZ3T0KwP7nKYls?usp=sharing)
 - I’m currently a freelance kickstarter developer but I'm also open for an Intern or a new job opportunity. this is [my resume](https://drive.google.com/file/d/1HRDsTZ8qHRn3dz7f1OSSrMPH-eOtMPAz/view?usp=sharing)
