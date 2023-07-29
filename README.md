@@ -23,7 +23,7 @@
 - Playing hack'n slash games's at spare time
 - Currently studying cybersecurity specialty
 - Personal Drive to learn and practice with documentation, books, pdf etc ... [Google Drive](https://drive.google.com/drive/folders/1DVaZEDvKXDaqQdkDnfhZ3T0KwP7nKYls?usp=sharing)
-- I’m currently a freelance kickstarter developer but I'm also open for an Intern or a new job opportunity. this is [my resume](https://read.cv/0xabdulkhalid)
+- I’m currently a freelance kickstarter developer but I'm also open for an Intern or a new job opportunity. this is [my resume](https://drive.google.com/file/d/1HRDsTZ8qHRn3dz7f1OSSrMPH-eOtMPAz/view?usp=sharing)
 
 <br><br>
 
